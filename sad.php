@@ -153,7 +153,7 @@ text-align: center;
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100%  100%;   
-  color: #ffffff;
+  color: #00000;
   font-family:Kelly Slab;
   font-size: 13px;
 }
